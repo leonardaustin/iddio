@@ -4,21 +4,15 @@ Security gateway that sits between AI agents and Kubernetes clusters. Classifies
 
 ## Installation
 
-### Homebrew (macOS / Linux)
+### Homebrew (macOS)
 
 ```sh
-brew install leonardaustin/tap/iddio
+brew install --cask leonardaustin/tap/iddio-desktop
 ```
 
 ### Download binary
 
 Pre-built signed binaries for macOS and Linux are available on the [Releases](https://github.com/leonardaustin/iddio/releases) page.
-
-### Docker
-
-```sh
-docker pull ghcr.io/leonardaustin/iddio:latest
-```
 
 ## Documentation
 
